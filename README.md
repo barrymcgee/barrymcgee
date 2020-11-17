@@ -1,4 +1,4 @@
-![alt text](https://media-exp1.licdn.com/dms/image/C4E16AQEdiAA-c7l-Ew/profile-displaybackgroundimage-shrink_350_1400/0?e=1605139200&v=beta&t=vwAnyqpn2IcFuqF6EDD7NILyj6I9_5Ipg_I_M5YQtMM "Logo Title Text 1")
+![alt text](https://media-exp1.licdn.com/dms/image/C4E16AQEdiAA-c7l-Ew/profile-displaybackgroundimage-shrink_350_1400/0?e=1611187200&v=beta&t=fZ14dkJ_t_bHLCK7ZT69CMKziF0ZkScTaNmmJmtG5xs "'Do Something Great' light banner")
 
 ### Hi, I'm Barry.  👋
 
