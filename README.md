@@ -2,6 +2,6 @@
 
 ### Hi, I'm Barry.  👋
 
-I am a developer with over fifteen years experience of building UI experiences used by millions of people.
+I am an engineer with nearly two decades of experience building software used by millions of people.
 
-I care about crafting a web that looks good, loads fast & works everywhere, for everyone.
+I care about crafting experiences that looks good, load fast & work everywhere, for everyone.
