@@ -2,6 +2,6 @@
 
 ### Hi, I'm Barry.  👋
 
-I am an engineer with nearly two decades of experience building software used by millions of people.
+I am an engineer with two decades of experience building software used by millions of people.
 
 I care about crafting experiences that looks good, load fast & work everywhere, for everyone.
