@@ -1,4 +1,5 @@
-![Do something great!](https://p193.p3.n0.cdn.getcloudapp.com/items/WnuBBYNE/56c57dc8-f4ab-4347-b94d-d9830029b773.jpeg?source=viewer&v=6187d2c30153be9c1b2a781214f00aa7 "'Do Something Great' light banner")
+
+![Photo Apr 10 2024, 8 51 43 PM](https://github.com/barrymcgee/barrymcgee/assets/505570/68180a05-a2a6-46d2-980b-6e69b9adffb8)
 
 ### Hi, I'm Barry.  👋
 
